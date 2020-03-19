@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'bigdecimal' # needed by reek
   s.add_dependency 'bundler-audit'
   s.add_dependency 'fasterer', '0.4.1'
-  s.add_dependency 'mdl', '0.5.0'
+  s.add_dependency 'mdl', '0.9.0'
   s.add_dependency 'rake' # needed by reek
   s.add_dependency 'reek', '5.3.0'
   s.add_dependency 'rubocop', '0.63.1'
